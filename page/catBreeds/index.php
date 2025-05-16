@@ -20,3 +20,7 @@
         <?php endforeach; ?>
     </div>
 </main>
+
+<?php
+    include BASE_PATH . '/components/footer.component.php';
+?>
