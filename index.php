@@ -2,18 +2,17 @@
     require_once 'bootstrap.php';
 ?>
 
-<main class="container">
-    <section class="p-5 mb-4 bg-light rounded-3">
-        <div class="container-fluid py-5">
-            <h2 class="display-5 fw-bold">Welcome to Cat Breed Directory!</h2>
-            <p class="col-md-8 fs-4">Learn about different cat breeds around the world. Browse details like origin and lifespan.</p>
-            <a href="/page/catBreeds/index.php" class="btn btn-primary btn-lg">View Cat Breeds</a>
-        </div>
-    </section>
-
-    <div class="home-image my-4">
-        <img src="/assets/img/home-cat.webp" alt="Cute Cat" class="img-fluid rounded shadow">
+<div class="banner position-relative text-white text-center">
+    <img src="/assets/img/home-cat.jpg" alt="Cat Banner" class="img-fluid w-100 banner-img">
+    <div class="banner-text position-absolute top-50 start-50 translate-middle">
+        <h1 class="display-5 fw-bold">Welcome to Cat Breed Directory!</h1>
+        <p class="fs-4">Learn about different cat breeds around the world.</p>
+        <a href="/page/catBreeds/index.php" class="btn btn-primary btn-lg mt-3">View Cat Breeds</a>
     </div>
+</div>
+
+<main class="container my-5">
+    <p class="text-center">Explore out collection of adorable cat breeds. Click the button above to get started!</p>
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
