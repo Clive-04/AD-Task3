@@ -1,4 +1,5 @@
 <?php
+    require_once 'bootstrap.php';
     include BASE_PATH . '/components/header.component.php';
 ?>
 
