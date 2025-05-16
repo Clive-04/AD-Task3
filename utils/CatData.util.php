@@ -1,5 +1,5 @@
 <?php
-    function getAllCatBreed(): array {
+    function getAllCatBreeds(): array {
         return [
             "Persian" => [
                 "origin" => "Iran",
