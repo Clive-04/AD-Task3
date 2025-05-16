@@ -4,19 +4,19 @@
             "Persian" => [
                 "origin" => "Iran",
                 "lifespan" => "12-17 years",
-                "image" => "/assets/img/persian.png"
+                "image" => "/assets/img/persian.jpg"
             ],
 
             "Siamese" => [
                 "origin" => "Thailand",
                 "lifespan" => "10-15 years",
-                "image" => "page/catBreeds/assets/img/siamese.png"
+                "image" => "/assets/img/siamese.jpg"
             ],
 
             "Maine Coon" => [
             "origin" => "USA",
             "lifespan" => "10-13 years",
-            "image" => ""
+            "image" => "/assets/img/mainecoon.jpg"
             ]
         ];
     }
