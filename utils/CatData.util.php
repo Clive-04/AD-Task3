@@ -22,37 +22,37 @@
             "Ragdoll" => [
                 "origin" => "USA",
                 "lifespan" => "12-17 years",
-                "image" => ""
+                "image" => "/assets/img/ragdoll.jpg"
             ],
 
             "Bengal" => [
                 "origin" => "USA",
                 "lifespan" => "12-16 years",
-                "image" => ""
+                "image" => "/assets/img/bengal.jpg"
             ],
 
             "Sphynx" => [
-                "origin" = "Canada",
+                "origin" => "Canada",
                 "lifespan" => "8-14 years",
-                "image" => ""
+                "image" => "/assets/img/sphynx.jpg"
             ],
 
             "Scottish Fold" => [
                 "origin" => "Scotland",
                 "lifespan" => "11-15 years",
-                "image" => ""
-            ]
+                "image" => "/assets/img/scottishfold.jpg"
+            ],
 
             "British Shorthair" => [
                 "origin" => "United Kingdom",
                 "lifespan" => "12-20 years",
-                "image"=> ""
-            ]
+                "image"=> "/assets/img/british.jpg"
+            ],
 
             "Japanese Bobtail" => [
-                "origin" = "Japan",
+                "origin" => "Japan",
                 "lifespan" => "9-15 years",
-                "image" => ""
+                "image" => "/assets/img/bobtail.jpg"
             ]
         ];
     }
