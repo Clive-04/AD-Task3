@@ -10,6 +10,10 @@
             <a href="/page/catBreeds/index.php" class="btn btn-primary btn-lg">View Cat Breeds</a>
         </div>
     </section>
+
+    <div class="home-image my-4">
+        <img src="/assets/img/home-cat.webp" alt="Cute Cat" class="img-fluid rounded shadow">
+    </div>
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
