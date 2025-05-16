@@ -12,7 +12,7 @@
 </div>
 
 <main class="container my-5">
-    <p class="text-center">Explore out collection of adorable cat breeds. Click the button above to get started!</p>
+    <p class="text-center">Explore our collection of adorable cat breeds. Click the button above to get started!</p>
 </main>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>

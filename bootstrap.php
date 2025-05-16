@@ -5,6 +5,8 @@
 
     define('BASE_PATH', __DIR__);
 
+    chdir(BASE_PATH);
+
     require_once BASE_PATH . '/utils/CatData.util.php';
     require_once BASE_PATH . '/components/templates/catcard.component.php';
     require_once BASE_PATH . '/components/header.component.php';
