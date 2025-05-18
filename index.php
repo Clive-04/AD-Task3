@@ -1,5 +1,9 @@
 <?php
     require_once 'bootstrap.php';
+
+    define('BASE_PATH', realpath(__DIR__));
+
+    chdir(BASE_PATH);
 ?>
 
 <div class="banner position-relative text-white text-center">

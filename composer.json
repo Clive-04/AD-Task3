@@ -1,0 +1,16 @@
+{
+    "name": "clive/ad-task2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Clive\\AdTask2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clive-04",
+            "email": "202310384@fit.edu.ph"
+        }
+    ],
+    "require": {}
+}
